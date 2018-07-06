@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#44a1af</color>
+    <color name="colorPrimaryDark">#04515c</color>
+    <color name="colorAccent">#80e27e</color>
+
+    <color name="colorGarden">#D080e27e</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_trans">#99FFFFFF</color>
+
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+</resources>
