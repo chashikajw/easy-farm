@@ -42,7 +42,9 @@ public class NewFrontSN extends AppCompatActivity {
                             case R.id.action_item1:
                                 selectedFragment = PlantFragment.newInstance();
                                 break;
-                            
+                            case R.id.action_item2:
+                                selectedFragment = PlantFragment.newInstance();
+                                break;
                             case R.id.action_item3:
                                 selectedFragment = LeaderboardFragment.newInstance();
                                 break;
