@@ -1,8 +1,5 @@
 package com.devlanka.smarty;
 
-/**
- * Created by supuldulanka on 7/23/17.
- */
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;

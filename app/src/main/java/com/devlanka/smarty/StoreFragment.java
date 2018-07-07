@@ -37,17 +37,7 @@ public class StoreFragment extends android.support.v4.app.Fragment {
         final TextView text = (TextView) v.findViewById(R.id.max_sun);
         final ImageView buy = (ImageView) v.findViewById(R.id.buy_img);
 
-        Button button = (Button) v.findViewById(R.id.overflow);
-        button.setOnClickListener(new View.OnClickListener() {
 
-            @Override
-            public void onClick(View v) {
-                // TODO Auto-generated method stub
-                Toast.makeText(getActivity(), "Added to cart", Toast.LENGTH_LONG).show();
-
-
-            }
-        });
 
         final ImageView thumb = (ImageView) v.findViewById(R.id.thumbnail);
         thumb.setOnClickListener(new View.OnClickListener() {
