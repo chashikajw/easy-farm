@@ -19,4 +19,8 @@
         android:id="@+id/action_item4"
         android:icon="@drawable/ic_field"
         android:title="Fields"/>
+    <item
+        android:id="@+id/action_item5"
+        android:icon="@drawable/ic_knowledge"
+        android:title="Knowlege hub"/>
 </menu>
