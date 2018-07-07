@@ -45,6 +45,9 @@ public class NewFrontSN extends AppCompatActivity {
                             case R.id.action_item5:
                                 selectedFragment = KnowledgeFragment.newInstance();
                                 break;
+                            case R.id.action_item2:
+                                selectedFragment = CalendarFragment.newInstance();
+                                break;
                             case R.id.action_item3:
                                 selectedFragment = LeaderboardFragment.newInstance();
                                 break;
