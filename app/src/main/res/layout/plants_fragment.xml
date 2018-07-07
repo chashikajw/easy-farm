@@ -33,17 +33,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="4dp"
-                android:src="@drawable/smile2" />
+                android:src="@drawable/rating" />
 
-                <TextView
-                    android:id="@+id/plant_smiley_text"
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:text="Please, I Need Water!"
-                    android:maxLines="1"
-                    android:textSize="18dp"
-                    android:layout_marginTop="8dp"
-                    android:paddingRight="16dp"/>
 
             </LinearLayout>
 
@@ -57,7 +48,7 @@
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
             android:layout_gravity="center_horizontal"
-            android:src="@drawable/circle_front"
+            android:src="@drawable/profile"
             android:paddingBottom="16dp"/>
 
     </RelativeLayout>
@@ -158,7 +149,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
                 android:paddingLeft="20dp"
-                android:text="Sunlight"
+                android:text="Fertilizer"
                 android:textSize="18dp" />
 
             <RelativeLayout
