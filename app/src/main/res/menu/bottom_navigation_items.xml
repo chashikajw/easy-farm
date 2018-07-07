@@ -2,21 +2,21 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/action_item1"
-        android:icon="@drawable/ic_local_florist_black_24dp"
-        android:title="Plants"/>
+        android:icon="@drawable/ic_profile"
+        android:title="Profile"/>
 
     <item
         android:id="@+id/action_item3"
         android:icon="@drawable/ic_format_list_bulleted_black_24dp"
-        android:title="Todo"/>
+        android:title="Log"/>
 
     <item
         android:id="@+id/action_item2"
-        android:icon="@drawable/ic_location_on_black_24dp"
-        android:title="Map"/>
+        android:icon="@drawable/ic_calender"
+        android:title="Calender"/>
 
     <item
         android:id="@+id/action_item4"
-        android:icon="@drawable/ic_local_grocery_store_black_24dp"
-        android:title="Store"/>
+        android:icon="@drawable/ic_field"
+        android:title="Fields"/>
 </menu>
